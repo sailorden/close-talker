@@ -1,10 +1,11 @@
 {
   "devDependencies": {
-    "socket.io": "~0.9.17",
-    "require": "~0.5.0",
-    "underscore": "~1.6.0",
+    "craftyjs": "^0.7.1",
     "express": "~4.3.1",
-    "requirejs": "~2.1.11"
+    "require": "~0.5.0",
+    "requirejs": "~2.1.11",
+    "socket.io": "~0.9.17",
+    "underscore": "~1.6.0"
   },
   "name": "close-talker",
   "version": "0.1.1",
@@ -18,8 +19,8 @@
     "underscore": "~1.6.0"
   },
   "engines": {
-      "node": "0.8.4",
-      "npm": "1.1.41"
+    "node": "0.8.4",
+    "npm": "1.1.41"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
