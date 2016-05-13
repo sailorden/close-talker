@@ -17,6 +17,10 @@
     "socket.io": "~0.9.17",
     "underscore": "~1.6.0"
   },
+  "engines": {
+      "node": "0.8.4",
+      "npm": "1.1.41"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
