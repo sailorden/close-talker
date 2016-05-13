@@ -1,0 +1,19 @@
+{
+  "name": "close-talker",
+  "version": "0.1.1",
+  "description": "A 2D chat client.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynedenier/close-talker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waynedenier/close-talker/issues"
+  },
+  "homepage": "https://github.com/waynedenier/close-talker#readme"
+}
